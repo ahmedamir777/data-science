@@ -90,13 +90,13 @@ The Data Science curriculum assumes the student has taken [high school math](htt
 
 ### Introduction to Data Science
 
-🟡[What is Data Science](https://www.coursera.org/learn/what-is-datascience)
+✅[What is Data Science](https://www.coursera.org/learn/what-is-datascience)
 
 ### Introduction to Computer Science
 
-_Students who already know basic programming in any language can skip this first course_
+❌_Students who already know basic programming in any language can skip this first course_
 
-[Introduction to programming](coursepages/intro-programming/README.md)
+🟡[Introduction to programming](coursepages/intro-programming/README.md)
 
 [Introduction to Computer Science and Programming Using Python](coursepages/intro-cs/README.md)
 
@@ -132,7 +132,7 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 
 ### Single Variable Calculus
 
-[Calculus 1A: Differentiation](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.1x/)
+🟡[Calculus 1A: Differentiation](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.1x/)
 
 [Calculus 1B: Integration](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.2x/)
 
