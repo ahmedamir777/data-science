@@ -168,7 +168,7 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 
 ### Machine Learning/Data Mining
 
-[Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning)
+🟡[Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning)
 
 [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms)
 
